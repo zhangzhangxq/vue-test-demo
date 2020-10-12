@@ -1,0 +1,1 @@
+desc: Daily learning record
